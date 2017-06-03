@@ -15,6 +15,9 @@
 #define new DEBUG_NEW
 #endif
 
+
+// 이것은 테스트를 위한 것이다.
+
 void    __stdcall EventFuncCallProc(UINT nTimeID, UINT uMsg, DWORD dwUser, DWORD dw1, DWORD dw2); 
 
 CMainFrame  *m_pMainFrm;
