@@ -15,7 +15,7 @@
 #define new DEBUG_NEW
 #endif
 
-
+// test for 
 void    __stdcall EventFuncCallProc(UINT nTimeID, UINT uMsg, DWORD dwUser, DWORD dw1, DWORD dw2); 
 
 CMainFrame  *m_pMainFrm;
