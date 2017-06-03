@@ -24,6 +24,8 @@ CDlgPlot::CDlgPlot(CWnd* pParent /*=NULL*/)
 	m_nCurSel = 0;
 }
 
+a;skjdf;alksjd;falksjdfasdf
+
 CDlgPlot::~CDlgPlot()
 {
 	long i, j, nMaxPlotNum;
